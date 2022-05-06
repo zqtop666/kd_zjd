@@ -1,0 +1,41 @@
+C:/Users/admin/RiderProjects/CangQiong/CQCore/bin/Debug/CQCore.dll
+C:/Users/admin/RiderProjects/CangQiong/CQCore/bin/Debug/CQCore.pdb
+C:/Users/admin/RiderProjects/CangQiong/CQCore/obj/Debug/CQCore.csproj.AssemblyReference.cache
+C:/Users/admin/RiderProjects/CangQiong/CQCore/obj/Debug/CQCore.csproj.CoreCompileInputs.cache
+C:/Users/admin/RiderProjects/CangQiong/CQCore/obj/Debug/CQCore.dll
+C:/Users/admin/RiderProjects/CangQiong/CQCore/obj/Debug/CQCore.pdb
+/Volumes/[E] 我的 Boot Camp/projects/CangQiong/CQCore/bin/Debug/CQCore.dll.config
+/Volumes/[E] 我的 Boot Camp/projects/CangQiong/CQCore/bin/Debug/CQCore.dll
+/Volumes/[E] 我的 Boot Camp/projects/CangQiong/CQCore/bin/Debug/CQCore.pdb
+/Volumes/[E] 我的 Boot Camp/projects/CangQiong/CQCore/obj/Debug/CQCore.csproj.AssemblyReference.cache
+/Volumes/[E] 我的 Boot Camp/projects/CangQiong/CQCore/obj/Debug/CQCore.csproj.CoreCompileInputs.cache
+/Volumes/[E] 我的 Boot Camp/projects/CangQiong/CQCore/obj/Debug/CQCore.dll
+/Volumes/[E] 我的 Boot Camp/projects/CangQiong/CQCore/obj/Debug/CQCore.pdb
+E:/projects/CangQiong/CQCore/bin/Debug/CQCore.dll.config
+E:/projects/CangQiong/CQCore/bin/Debug/CQCore.dll
+E:/projects/CangQiong/CQCore/bin/Debug/CQCore.pdb
+E:/projects/CangQiong/CQCore/obj/Debug/CQCore.csproj.AssemblyReference.cache
+E:/projects/CangQiong/CQCore/obj/Debug/CQCore.csproj.CoreCompileInputs.cache
+E:/projects/CangQiong/CQCore/obj/Debug/CQCore.dll
+E:/projects/CangQiong/CQCore/obj/Debug/CQCore.pdb
+/Volumes/DATA/Data/KD/kingtee/projects/CangQiong/CQCore/obj/Debug/CQCore.csproj.AssemblyReference.cache
+/Volumes/DATA/Data/KD/kingtee/projects/CangQiong/CQCore/obj/Debug/CQCore.csproj.CoreCompileInputs.cache
+/Volumes/DATA/Data/KD/kingtee/projects/CangQiong/CQCore/obj/Debug/CQCore.dll
+/Volumes/DATA/Data/KD/kingtee/projects/CangQiong/CQCore/obj/Debug/CQCore.pdb
+/Volumes/DATA/Data/KD/kingtee/projects/CangQiong/CQCore/bin/Debug/CQCore.dll.config
+/Volumes/DATA/Data/KD/kingtee/projects/CangQiong/CQCore/bin/Debug/CQCore.dll
+/Volumes/DATA/Data/KD/kingtee/projects/CangQiong/CQCore/bin/Debug/CQCore.pdb
+\\Mac\KD\kingtee\projects\CangQiong\CQCore\bin\Debug\CQCore.dll.config
+\\Mac\KD\kingtee\projects\CangQiong\CQCore\bin\Debug\CQCore.dll
+\\Mac\KD\kingtee\projects\CangQiong\CQCore\bin\Debug\CQCore.pdb
+\\Mac\KD\kingtee\projects\CangQiong\CQCore\obj\Debug\CQCore.csproj.CoreCompileInputs.cache
+\\Mac\KD\kingtee\projects\CangQiong\CQCore\obj\Debug\CQCore.dll
+\\Mac\KD\kingtee\projects\CangQiong\CQCore\obj\Debug\CQCore.pdb
+C:\Users\admin\Desktop\kingtee\projects\CangQiong\CQCore\bin\Debug\CQCore.dll.config
+C:\Users\admin\Desktop\kingtee\projects\CangQiong\CQCore\bin\Debug\CQCore.dll
+C:\Users\admin\Desktop\kingtee\projects\CangQiong\CQCore\bin\Debug\CQCore.pdb
+C:\Users\admin\Desktop\kingtee\projects\CangQiong\CQCore\obj\Debug\CQCore.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\kingtee\projects\CangQiong\CQCore\obj\Debug\CQCore.dll
+C:\Users\admin\Desktop\kingtee\projects\CangQiong\CQCore\obj\Debug\CQCore.pdb
+C:\Users\admin\Desktop\kingtee\projects\CangQiong\CQCore\obj\Debug\CQCore.csprojAssemblyReference.cache
+\\Mac\KD\kingtee\projects\CangQiong\CQCore\obj\Debug\CQCore.csprojAssemblyReference.cache
