@@ -14,6 +14,43 @@ namespace CQCore.Code
     public class Price
     {
         /// <summary>
+        /// 获取检斤单
+        /// </summary>
+        /// <param name="F_THJY_weighnumber">检斤单编号</param>
+        /// <returns></returns>
+        public DataTable getWeightOrder(string F_THJY_weighnumber)
+        {
+            string sql = "select * from THJY_t_settleweighentry where F_THJY_weighnumber=@F_THJY_weighnumber";
+            SqlParameter[] param =
+            {
+                new SqlParameter("@F_THJY_weighnumber", F_THJY_weighnumber)
+            };
+            DataTable dt = SqlHelper.ExecuteDataTable(sql, param);
+            return dt;
+        }
+
+        /// <summary>
+        /// 获取质检报告
+        /// </summary>
+        /// <param name="F_THJY_weighnumber">检斤单编号</param>
+        /// <returns></returns>
+        public List<dynamic> getCheckReport(string F_THJY_weighnumber)
+        {
+            var list = new DataTable();
+
+            DataTable dt = getWeightOrder(F_THJY_weighnumber);
+            if (dt.Rows.Count > 0)
+            {
+                foreach (DataRow r in dt.Rows)
+                {
+                }
+            }
+
+            var result = SqlHelper.ToDynamicList(list);
+            return result;
+        }
+
+        /// <summary>
         /// 各种加权
         /// </summary>
         /// <param name="materialCode">物料编号</param>
@@ -54,42 +91,7 @@ namespace CQCore.Code
                         break;
                 }
             }
-
             return value;
-        }
-
-        /// <summary>
-        /// 获取物料和检验内容
-        /// </summary>
-        /// <param name="materialCode">物料编号</param>
-        /// <param name="checkItemCode">质检单号</param>
-        /// <returns></returns>
-        public List<dynamic> getCheckItemInfo(string materialCode, string checkItemCode)
-        {
-            var list = new DataTable();
-            if (string.IsNullOrEmpty(checkItemCode))
-            {
-                SqlParameter[] parameters =
-                {
-                    new SqlParameter("@materialCode", materialCode),
-                    new SqlParameter("@checkItemCode", checkItemCode)
-                };
-                list = SqlHelper.ExecuteDataTable(
-                    "select * from dbo.main where materialCode=@materialCode and checkItemCode=@checkItemCode",
-                    parameters
-                );
-            }
-            else
-            {
-                SqlParameter[] parameters = { new SqlParameter("@materialCode", materialCode), };
-                list = SqlHelper.ExecuteDataTable(
-                    "select * from dbo.main where materialCode=@materialCode",
-                    parameters
-                );
-            }
-
-            var result = SqlHelper.ToDynamicList(list);
-            return result;
         }
     }
 }

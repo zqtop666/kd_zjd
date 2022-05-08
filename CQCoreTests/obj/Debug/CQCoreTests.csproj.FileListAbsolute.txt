@@ -1,0 +1,12 @@
+\\Mac\KD\kingtee\projects\kd_zjd\CQCoreTests\bin\Debug\CQCoreTests.dll
+\\Mac\KD\kingtee\projects\kd_zjd\CQCoreTests\bin\Debug\CQCoreTests.pdb
+\\Mac\KD\kingtee\projects\kd_zjd\CQCoreTests\bin\Debug\CQCore.dll
+\\Mac\KD\kingtee\projects\kd_zjd\CQCoreTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\Mac\KD\kingtee\projects\kd_zjd\CQCoreTests\bin\Debug\CQCore.pdb
+\\Mac\KD\kingtee\projects\kd_zjd\CQCoreTests\bin\Debug\CQCore.dll.config
+\\Mac\KD\kingtee\projects\kd_zjd\CQCoreTests\obj\Debug\CQCoreTests.csprojAssemblyReference.cache
+\\Mac\KD\kingtee\projects\kd_zjd\CQCoreTests\obj\Debug\CQCoreTests.csproj.CoreCompileInputs.cache
+\\Mac\KD\kingtee\projects\kd_zjd\CQCoreTests\obj\Debug\CQCoreTests.csproj.CopyComplete
+\\Mac\KD\kingtee\projects\kd_zjd\CQCoreTests\obj\Debug\CQCoreTests.dll
+\\Mac\KD\kingtee\projects\kd_zjd\CQCoreTests\obj\Debug\CQCoreTests.pdb
+\\Mac\KD\kingtee\projects\kd_zjd\CQCoreTests\bin\Debug\CQCoreTests.dll.config

@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.1927
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQCore", "CQCore\CQCore.csproj", "{CAC7963F-AAF0-4911-8404-9BFB0C8DC662}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQ", "CQ\CQ.csproj", "{CC6A7153-5F11-413E-8322-7A9E9C090362}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQCoreTests", "CQCoreTests\CQCoreTests.csproj", "{39B6785C-D9BF-4D0E-B63C-CAF8D129FA0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{CAC7963F-AAF0-4911-8404-9BFB0C8DC662}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAC7963F-AAF0-4911-8404-9BFB0C8DC662}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAC7963F-AAF0-4911-8404-9BFB0C8DC662}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CC6A7153-5F11-413E-8322-7A9E9C090362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CC6A7153-5F11-413E-8322-7A9E9C090362}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CC6A7153-5F11-413E-8322-7A9E9C090362}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CC6A7153-5F11-413E-8322-7A9E9C090362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39B6785C-D9BF-4D0E-B63C-CAF8D129FA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B6785C-D9BF-4D0E-B63C-CAF8D129FA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B6785C-D9BF-4D0E-B63C-CAF8D129FA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B6785C-D9BF-4D0E-B63C-CAF8D129FA0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
